@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.nilportugues</groupId>
     <artifactId>messagebus</artifactId>
-    <version>1.0.1.RELEASE</version>
+    <version>1.0.0.RELEASE</version>
     <packaging>jar</packaging>
     <name>nilportugues/messagebus</name>
     <description>A Message Bus implementation</description>
